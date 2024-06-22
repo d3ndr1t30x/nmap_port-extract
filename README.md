@@ -6,14 +6,10 @@ How to Use the Script:
     Save the script to a file, e.g., extract_ports.sh.
 
     Make the script executable:
-
-    bash
-
-chmod +x extract_ports.sh
+    
+    chmod +x extract_ports.sh
 
 Run the script with the required options:
-
-bash
 
     ./extract_ports.sh -i all_ports.nmap -o port_list.txt
 
