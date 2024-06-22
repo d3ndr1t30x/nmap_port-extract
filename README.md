@@ -5,7 +5,7 @@ How to Use the Script:
 
     Save the script to a file, e.g., extract_ports.sh.
 
-    Make the script executable:
+Make the script executable:
     
     chmod +x extract_ports.sh
 
